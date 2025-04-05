@@ -1,0 +1,14 @@
+C:\Users\Gabriel.DESKTOP-7AR32UI\Desktop\OldPhonePadApp\OldPhonePadApp\bin\Debug\net9.0\OldPhonePadApp.exe
+C:\Users\Gabriel.DESKTOP-7AR32UI\Desktop\OldPhonePadApp\OldPhonePadApp\bin\Debug\net9.0\OldPhonePadApp.deps.json
+C:\Users\Gabriel.DESKTOP-7AR32UI\Desktop\OldPhonePadApp\OldPhonePadApp\bin\Debug\net9.0\OldPhonePadApp.runtimeconfig.json
+C:\Users\Gabriel.DESKTOP-7AR32UI\Desktop\OldPhonePadApp\OldPhonePadApp\bin\Debug\net9.0\OldPhonePadApp.dll
+C:\Users\Gabriel.DESKTOP-7AR32UI\Desktop\OldPhonePadApp\OldPhonePadApp\bin\Debug\net9.0\OldPhonePadApp.pdb
+C:\Users\Gabriel.DESKTOP-7AR32UI\Desktop\OldPhonePadApp\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel.DESKTOP-7AR32UI\Desktop\OldPhonePadApp\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.AssemblyInfoInputs.cache
+C:\Users\Gabriel.DESKTOP-7AR32UI\Desktop\OldPhonePadApp\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.AssemblyInfo.cs
+C:\Users\Gabriel.DESKTOP-7AR32UI\Desktop\OldPhonePadApp\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel.DESKTOP-7AR32UI\Desktop\OldPhonePadApp\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.dll
+C:\Users\Gabriel.DESKTOP-7AR32UI\Desktop\OldPhonePadApp\OldPhonePadApp\obj\Debug\net9.0\refint\OldPhonePadApp.dll
+C:\Users\Gabriel.DESKTOP-7AR32UI\Desktop\OldPhonePadApp\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.pdb
+C:\Users\Gabriel.DESKTOP-7AR32UI\Desktop\OldPhonePadApp\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.genruntimeconfig.cache
+C:\Users\Gabriel.DESKTOP-7AR32UI\Desktop\OldPhonePadApp\OldPhonePadApp\obj\Debug\net9.0\ref\OldPhonePadApp.dll
