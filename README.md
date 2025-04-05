@@ -1,4 +1,4 @@
-```markdown
+
 # OldPhonePadApp
 
 [![My Skills](https://skillicons.dev/icons?i=csharp,dotnet,git,vscode&theme=dark)](https://skillicons.dev)
